@@ -1,7 +1,8 @@
-### Hi there 👋
+[![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif)
+### Hi there 
 
 <h1 align="center">Hi 👋, I'm Jack Soh</h1>
-<h3 align="center">A passionate mobile application developer from Malaysia</h3>
+<h3 align="center">A passionate mobile application developer from Malaysia/Singapore</h3>
 
 - 🌱 I’m currently learning **Node Js**
 
